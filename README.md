@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daxtonkamitaira" alt="daxtonkamitaira" /></a> </p>
 
-- 💬 Ask me about **react, solidity, blockchain, python, scraping**
+- 💬 Ask me about **react, solidity, blockchain, javascript, python, scraping**
 
 - 📫 How to reach me **daxton.kamitaira@gmail.com**
 
